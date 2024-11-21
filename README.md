@@ -1,5 +1,5 @@
 ------------ es5 ----------
-if, switch
+--- if, switch
 
 
 for, while  (최대값, 최소값 구하기)
